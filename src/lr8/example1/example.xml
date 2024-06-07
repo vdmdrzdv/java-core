@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FilmLibrary>
+    <film>
+        <title>Back to the Future</title>
+        <producer>Роберт Земекис</producer>
+        <year>1985</year>
+    </film>
+    <film>
+        <title>Начало</title>
+        <producer>Кристофер Нолан</producer>
+        <year>2010</year>
+    </film>
+    <film>
+        <title>Престиж</title>
+        <producer>Кристофер Нолан</producer>
+        <year>2006</year>
+    </film>
+</FilmLibrary>
